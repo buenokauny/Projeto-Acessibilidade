@@ -29,7 +29,9 @@ body {
     background-color: #040404;
 }
 
-
+p{
+  color: pink;
+}
 section {
     padding-bottom: 5rem;
 }
